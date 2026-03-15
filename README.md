@@ -9,3 +9,6 @@ Fixes the bug where you can't paste YouTube links into the itch.io review embed 
 
 ## 🛠 How it works
 It uses a MutationObserver to watch for the video popup and automatically injects your clipboard content if it detects a YouTube URL.
+
+## 📖 Usage
+Once installed, copy the youtube link, open the itch.io review, click the 'Add Video' button, and the script will automatically detect the YouTube link in your clipboard and paste it for you.
